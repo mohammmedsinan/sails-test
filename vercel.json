@@ -20,9 +20,5 @@
       "src": "/test",
       "dest": "api/controllers/test.js"
     },
-    {
-      "src": "/(.*)",
-      "dest": "app.js"
-    }
   ]
 }
